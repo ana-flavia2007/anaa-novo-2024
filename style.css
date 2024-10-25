@@ -7,7 +7,7 @@
     --botao-ativo:#72daf6;
     --botao-inativo: rgba(151, 243, 239, 0.5);
     --texto-fundo: rgba(111, 213, 247, 0.3);
-    color: #f6e63a;
+    color: #7c52cf;
 }
 
 
@@ -90,17 +90,20 @@ background-color: var(--texto-fundo);
     text-align: center; 
     display: flex;
     justify-content: center;
+    color: aqua;
 }
 
 .contador-digito{
     padding: 0 26px; 
-    text-align: center;   
+    text-align: center;  
+    color: #0a1efb;
 }
 
 .contador-digito-numero{
 font-size: 60px;
 margin: 0;
 text-align: center;
+color: #ae32ac;
 
 }
 
@@ -108,5 +111,6 @@ text-align: center;
     color: var(--verde);
     font-size: 20px;
     margin: 0;
+    color: rgb(136, 122, 205);
     
 }
